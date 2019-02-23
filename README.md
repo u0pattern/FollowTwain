@@ -1,5 +1,6 @@
 # FollowTwain
 FollowTwain is tool can know whether the two users are following each other or not. <br>
+[![asciicast](https://asciinema.org/a/fdWkHurXxw9IRjhcvis6gqUQW.png)](https://asciinema.org/a/fdWkHurXxw9IRjhcvis6gqUQW)
 
 -----------
 
