@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from requests_oauthlib import OAuth1
 import requests,re,platform,os
 sys = platform.system()
