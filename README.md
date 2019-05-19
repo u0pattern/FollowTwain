@@ -5,7 +5,7 @@ FollowTwain is tool can know whether the two users are following each other or n
 -----------
 
 # the installation tool :-
-in `git` : `git clone https://github.com/1337r00t/FollowTwain` <br>
+in `git` : `git clone https://ithub.com/1337r00t/FollowTwain` <br>
 in `curl` : `curl https://raw.githubusercontent.com/1337r00t/FollowTwain/master/FollowTwain.py -o FollowTwain.py`<br>
 OR<br>
 [Download](https://github.com/1337r00t/FollowTwain/archive/master.zip) <br>
